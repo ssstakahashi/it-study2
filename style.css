@@ -1,0 +1,49 @@
+p {
+    color:saddlebrown;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+
+.first {
+    background-color: sandybrown;
+    height: 18rem;
+    text-align: center;
+    width: 100%;
+}
+
+.second {
+    background-color: skyblue;
+    height: 18rem;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.one {
+    background-color: slategrey;
+    height: 5rem;
+    color: red;
+    line-height: 5rem;
+
+}
+
+.two {
+    height: 12rem;
+    width: 80%;
+}
+
+.second .one {
+    color:blue;
+
+}
+
+.second p {
+    font-size: 0.8rem;
+    color: black;
+}
